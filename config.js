@@ -1,4 +1,3 @@
-
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Trái đất vốn lạ thường
@@ -16,5 +15,6 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink'http://fb.com'https://www.facebook.com/messages/t/111508780676516/ //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+
